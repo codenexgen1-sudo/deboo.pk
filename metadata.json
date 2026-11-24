@@ -1,0 +1,8 @@
+{
+  "name": "Deboo.pk — Luxury Pakistani Fashion",
+  "description": "Luxury Pakistani women's fashion e-commerce platform offering unstitched lawn, stitched 3-piece suits, festive formals, and handcrafted accessories with nationwide tracked courier delivery from Karachi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
